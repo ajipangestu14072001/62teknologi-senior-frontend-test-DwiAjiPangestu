@@ -11,6 +11,18 @@
 		0160CD202A414B85006BF366 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD1F2A414B85006BF366 /* ContentView.swift */; };
 		0160CD222A414B86006BF366 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0160CD212A414B86006BF366 /* Assets.xcassets */; };
 		0160CD252A414B86006BF366 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0160CD242A414B86006BF366 /* Preview Assets.xcassets */; };
+		0160CD342A4151C2006BF366 /* ApiResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD332A4151C2006BF366 /* ApiResponse.swift */; };
+		0160CD3A2A41633E006BF366 /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD392A41633E006BF366 /* Review.swift */; };
+		0160CD3E2A41814A006BF366 /* DetailBusiness.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD3D2A41814A006BF366 /* DetailBusiness.swift */; };
+		0160CD452A419D1C006BF366 /* BusinessListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD442A419D1C006BF366 /* BusinessListViewModel.swift */; };
+		0160CD482A419DC8006BF366 /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD472A419DC8006BF366 /* ImageCarouselView.swift */; };
+		0160CD4A2A419DE8006BF366 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD492A419DE8006BF366 /* ImageLoader.swift */; };
+		0160CD4C2A419E60006BF366 /* DetailBusinessViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD4B2A419E60006BF366 /* DetailBusinessViewModel.swift */; };
+		0160CD4E2A419EE8006BF366 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD4D2A419EE8006BF366 /* DetailView.swift */; };
+		0160CD502A419F2B006BF366 /* BusinessCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD4F2A419F2B006BF366 /* BusinessCell.swift */; };
+		0160CD522A41A10B006BF366 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD512A41A10B006BF366 /* SearchBarView.swift */; };
+		0160CD542A41A3CD006BF366 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0160CD532A41A3CD006BF366 /* Constant.swift */; };
+		A4EDC4208EEE1C0FEBBE2B2D /* Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 408B8BB412AFB99552DDA5E9 /* Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,20 @@
 		0160CD1F2A414B85006BF366 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0160CD212A414B86006BF366 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0160CD242A414B86006BF366 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0160CD332A4151C2006BF366 /* ApiResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiResponse.swift; sourceTree = "<group>"; };
+		0160CD392A41633E006BF366 /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
+		0160CD3D2A41814A006BF366 /* DetailBusiness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBusiness.swift; sourceTree = "<group>"; };
+		0160CD442A419D1C006BF366 /* BusinessListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessListViewModel.swift; sourceTree = "<group>"; };
+		0160CD472A419DC8006BF366 /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
+		0160CD492A419DE8006BF366 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		0160CD4B2A419E60006BF366 /* DetailBusinessViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBusinessViewModel.swift; sourceTree = "<group>"; };
+		0160CD4D2A419EE8006BF366 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		0160CD4F2A419F2B006BF366 /* BusinessCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessCell.swift; sourceTree = "<group>"; };
+		0160CD512A41A10B006BF366 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		0160CD532A41A3CD006BF366 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		408B8BB412AFB99552DDA5E9 /* Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		702E085397B8A20038F30EB4 /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.release.xcconfig"; path = "Target Support Files/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.release.xcconfig"; sourceTree = "<group>"; };
+		971819501E0B8D8E51FD54DE /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.debug.xcconfig"; path = "Target Support Files/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +52,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4EDC4208EEE1C0FEBBE2B2D /* Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +64,8 @@
 			children = (
 				0160CD1C2A414B85006BF366 /* 62teknologi-senior-frontend-test-DwiAjiPangestu */,
 				0160CD1B2A414B85006BF366 /* Products */,
+				50B0419F96AC1D5238860852 /* Pods */,
+				18639641D3966BDE5DB32739 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,8 +80,12 @@
 		0160CD1C2A414B85006BF366 /* 62teknologi-senior-frontend-test-DwiAjiPangestu */ = {
 			isa = PBXGroup;
 			children = (
+				0160CD462A419DB7006BF366 /* helper */,
+				0160CD432A419D04006BF366 /* view */,
+				0160CD422A419CFB006BF366 /* util */,
+				0160CD412A419CE3006BF366 /* viewmodel */,
+				0160CD402A419CCC006BF366 /* model */,
 				0160CD1D2A414B85006BF366 /* _2teknologi_senior_frontend_test_DwiAjiPangestuApp.swift */,
-				0160CD1F2A414B85006BF366 /* ContentView.swift */,
 				0160CD212A414B86006BF366 /* Assets.xcassets */,
 				0160CD232A414B86006BF366 /* Preview Content */,
 			);
@@ -67,6 +100,70 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		0160CD402A419CCC006BF366 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				0160CD332A4151C2006BF366 /* ApiResponse.swift */,
+				0160CD392A41633E006BF366 /* Review.swift */,
+				0160CD3D2A41814A006BF366 /* DetailBusiness.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		0160CD412A419CE3006BF366 /* viewmodel */ = {
+			isa = PBXGroup;
+			children = (
+				0160CD442A419D1C006BF366 /* BusinessListViewModel.swift */,
+				0160CD4B2A419E60006BF366 /* DetailBusinessViewModel.swift */,
+			);
+			path = viewmodel;
+			sourceTree = "<group>";
+		};
+		0160CD422A419CFB006BF366 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				0160CD532A41A3CD006BF366 /* Constant.swift */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		0160CD432A419D04006BF366 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				0160CD1F2A414B85006BF366 /* ContentView.swift */,
+				0160CD4D2A419EE8006BF366 /* DetailView.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		0160CD462A419DB7006BF366 /* helper */ = {
+			isa = PBXGroup;
+			children = (
+				0160CD472A419DC8006BF366 /* ImageCarouselView.swift */,
+				0160CD492A419DE8006BF366 /* ImageLoader.swift */,
+				0160CD4F2A419F2B006BF366 /* BusinessCell.swift */,
+				0160CD512A41A10B006BF366 /* SearchBarView.swift */,
+			);
+			path = helper;
+			sourceTree = "<group>";
+		};
+		18639641D3966BDE5DB32739 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				408B8BB412AFB99552DDA5E9 /* Pods_62teknologi_senior_frontend_test_DwiAjiPangestu.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		50B0419F96AC1D5238860852 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				971819501E0B8D8E51FD54DE /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.debug.xcconfig */,
+				702E085397B8A20038F30EB4 /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,9 +171,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0160CD282A414B86006BF366 /* Build configuration list for PBXNativeTarget "62teknologi-senior-frontend-test-DwiAjiPangestu" */;
 			buildPhases = (
+				4949DAD676EF1A3469E8F2D0 /* [CP] Check Pods Manifest.lock */,
 				0160CD162A414B85006BF366 /* Sources */,
 				0160CD172A414B85006BF366 /* Frameworks */,
 				0160CD182A414B85006BF366 /* Resources */,
+				9673C80D9A71B2861C357FA5 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -132,13 +231,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4949DAD676EF1A3469E8F2D0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9673C80D9A71B2861C357FA5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu/Pods-62teknologi-senior-frontend-test-DwiAjiPangestu-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0160CD162A414B85006BF366 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0160CD342A4151C2006BF366 /* ApiResponse.swift in Sources */,
+				0160CD3A2A41633E006BF366 /* Review.swift in Sources */,
 				0160CD202A414B85006BF366 /* ContentView.swift in Sources */,
+				0160CD4E2A419EE8006BF366 /* DetailView.swift in Sources */,
+				0160CD522A41A10B006BF366 /* SearchBarView.swift in Sources */,
 				0160CD1E2A414B85006BF366 /* _2teknologi_senior_frontend_test_DwiAjiPangestuApp.swift in Sources */,
+				0160CD452A419D1C006BF366 /* BusinessListViewModel.swift in Sources */,
+				0160CD4C2A419E60006BF366 /* DetailBusinessViewModel.swift in Sources */,
+				0160CD482A419DC8006BF366 /* ImageCarouselView.swift in Sources */,
+				0160CD542A41A3CD006BF366 /* Constant.swift in Sources */,
+				0160CD502A419F2B006BF366 /* BusinessCell.swift in Sources */,
+				0160CD4A2A419DE8006BF366 /* ImageLoader.swift in Sources */,
+				0160CD3E2A41814A006BF366 /* DetailBusiness.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +413,7 @@
 		};
 		0160CD292A414B86006BF366 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 971819501E0B8D8E51FD54DE /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -289,6 +442,7 @@
 		};
 		0160CD2A2A414B86006BF366 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 702E085397B8A20038F30EB4 /* Pods-62teknologi-senior-frontend-test-DwiAjiPangestu.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
